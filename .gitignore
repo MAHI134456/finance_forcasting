@@ -1,0 +1,12 @@
+# ignoring virtual environment
+f_env/
+
+# ignoring Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+
+# ignoring Python bytecode files
+__pycache__/
+
+#ignorning data files and all csvfiles 
+data/   
+*.csv
