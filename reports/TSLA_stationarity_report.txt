@@ -1,0 +1,14 @@
+
+File: TSLA.csv
+
+Augmented Dickey-Fuller Test on Closing Prices:
+ADF Statistic: -1.419498605346799
+p-value: 0.5728933715318626
+Critical Values: {'1%': np.float64(-3.432962135264372), '5%': np.float64(-2.862694028699462), '10%': np.float64(-2.567384333962417)}
+Stationary: False
+
+Augmented Dickey-Fuller Test on Daily Returns:
+ADF Statistic: -34.68109047254198
+p-value: 0.0
+Critical Values: {'1%': np.float64(-3.4329352851231945), '5%': np.float64(-2.862682171580326), '10%': np.float64(-2.5673780210899224)}
+Stationary: True

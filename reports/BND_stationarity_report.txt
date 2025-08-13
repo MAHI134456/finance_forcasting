@@ -1,0 +1,14 @@
+
+File: BND.csv
+
+Augmented Dickey-Fuller Test on Closing Prices:
+ADF Statistic: -0.7942808772098522
+p-value: 0.8207962467767009
+Critical Values: {'1%': np.float64(-3.4329476085791493), '5%': np.float64(-2.8626876136761292), '10%': np.float64(-2.5673809185248175)}
+Stationary: False
+
+Augmented Dickey-Fuller Test on Daily Returns:
+ADF Statistic: -14.305432221394986
+p-value: 1.209078174551753e-26
+Critical Values: {'1%': np.float64(-3.432946577138947), '5%': np.float64(-2.8626871581881708), '10%': np.float64(-2.5673806760176046)}
+Stationary: True
