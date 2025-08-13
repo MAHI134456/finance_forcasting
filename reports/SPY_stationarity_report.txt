@@ -1,0 +1,14 @@
+
+File: SPY.csv
+
+Augmented Dickey-Fuller Test on Closing Prices:
+ADF Statistic: 0.43086838552788254
+p-value: 0.9826133213621083
+Critical Values: {'1%': np.float64(-3.4329434877271816), '5%': np.float64(-2.862685793891119), '10%': np.float64(-2.567379949649765)}
+Stationary: False
+
+Augmented Dickey-Fuller Test on Daily Returns:
+ADF Statistic: -16.196628955287064
+p-value: 4.117933765404394e-29
+Critical Values: {'1%': np.float64(-3.4329424595562963), '5%': np.float64(-2.862685339846278), '10%': np.float64(-2.5673797079109892)}
+Stationary: True
